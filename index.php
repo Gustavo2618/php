@@ -1,6 +1,6 @@
 <?php
 
 
-echo "mofi wins!"
+echo "mofi wins two times!"
 
 ?>
