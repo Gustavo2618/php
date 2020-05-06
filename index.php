@@ -1,6 +1,6 @@
 <?php
 
 
-echo "mofi wins!"
+echo "Hello World php"
 
 ?>
